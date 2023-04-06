@@ -1,5 +1,5 @@
 # landing-pages
-Menu interativo com diversas landing pages absurdas!
+Menu interativo com diversas landing pages!
 
 
 VALORANT LANDING PAGE
